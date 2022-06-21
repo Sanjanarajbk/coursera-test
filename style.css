@@ -1,0 +1,80 @@
+body{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    background-color: azure;
+}
+
+/** HEADER **/
+#header-nav{
+    background-color: aquamarine;
+}
+
+#brand{
+    font-size: 20px;
+    color: #135042;
+}
+
+button.navbar-toggler{
+    border: 1px solid #135042;
+}
+
+#nav-list .nav-item .nav-link{
+    color: #135042;
+}
+
+#nav-list .h-line{
+    width: 75%;
+    margin: auto;
+}
+
+/** MENU **/
+
+#home {
+	margin: 25px 0 25px 0;
+}
+
+.row .menu-item {
+    background-color: rgba(0, 255, 255, 0.1);
+	margin-bottom: 15px;
+	padding: 15px;
+}
+
+.menu-item .top-link{
+    text-decoration: none;
+    color: #135042;
+}
+
+.menu-item .top-link:hover{
+    color: #269279;
+}
+
+/* SUPER Small devices (>576px)*/
+@media (max-width: 576px) {
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    
+}
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
